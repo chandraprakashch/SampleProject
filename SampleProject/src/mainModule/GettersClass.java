@@ -2,18 +2,11 @@ package mainModule;
 
 public class GettersClass {
 
-	private int marks;
+	
 	private String str;
 	private Float number;
 
-	public int getMarks() {
-		return marks;
-	}
-
-	public void setMarks(int marks) {
-		this.marks = marks;
-	}
-
+	
 	public String getStr() {
 		return str;
 		
