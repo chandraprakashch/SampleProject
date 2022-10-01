@@ -5,8 +5,17 @@ public class GettersClass {
 	
 	private String str;
 	private Float number;
+	private int marks;
 
 	
+	public int getMarks() {
+		return marks;
+	}
+
+	public void setMarks(int marks) {
+		this.marks = marks;
+	}
+
 	public String getStr() {
 		return str;
 		
